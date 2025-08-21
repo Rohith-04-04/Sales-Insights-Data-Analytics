@@ -101,6 +101,6 @@ The dashboard displays all the key sales-related data, including
 
 The sales director can quickly and easily get a deeper understanding of the sales to boost his decision-making by filtering the dashboard by YEAR and MONTH within the observation period.
 
-## 🔗 Let's Connect!
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/devarshi-choudhury-367aa11b0/)
+
+
 
